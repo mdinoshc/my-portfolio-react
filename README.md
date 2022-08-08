@@ -70,8 +70,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # My Portfolio using ReACT
 
+<h2>HOME</h2>
 <img src="screenshots/home.JPG"/>
 <br/>
+<h2>ABOUT</h2>
 <img src="screenshots/about.JPG"/>
 <br/>
+<h2>CONTACT</h2>
 <img src="screenshots/contact.JPG"/>
