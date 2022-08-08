@@ -71,3 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # My Portfolio using ReACT
 
 <img src="screenshots/home.JPG"/>
+<br/>
+<img src="screenshots/about.JPG"/>
+<br/>
+<img src="screenshots/contact.JPG"/>
